@@ -1,1 +1,1 @@
-game.libretro.ppsspp https://github.com/kodi-game/game.libretro.ppsspp master
+game.libretro.ppsspp https://github.com/succo69/game.libretro.ppsspp master
